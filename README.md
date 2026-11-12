@@ -1,0 +1,2 @@
+# ozin-game-senta
+おじんゲームセンター
